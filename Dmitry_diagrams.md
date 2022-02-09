@@ -1,0 +1,6 @@
+![register (2)](https://user-images.githubusercontent.com/48338308/153291508-de836e2a-874c-445f-9072-8ccaf21ec9a4.png)
+![Моделирование объектов предметной области (пример)](https://user-images.githubusercontent.com/48338308/153291536-163d6578-596d-4d8d-9c15-2698770fdf23.png)
+![Моделирование объектов предметной области (пример) (1)](https://user-images.githubusercontent.com/48338308/153291547-a1feb4f6-6e7e-40b1-819c-6d313f522b0b.png)
+![Моделирование объектов предметной области (пример) (2)](https://user-images.githubusercontent.com/48338308/153291555-de088553-b8ca-4d72-84c8-7ed4df060617.png)
+![Моделирование объектов предметной области (пример) (3)](https://user-images.githubusercontent.com/48338308/153291561-777fa3de-eea0-4fc7-989e-7132dfa589fb.png)
+![Пример UML-диаграммы классов онлайн-корзины](https://user-images.githubusercontent.com/48338308/153292111-c86a2b07-b3e2-4e1a-875b-06ad441ed4bb.png)
