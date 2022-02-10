@@ -1,1 +1,6 @@
-
+![Пример UML-диаграммы классов онлайн-корзины (1)](https://user-images.githubusercontent.com/48338308/153335902-4c608fd0-ef23-4208-a691-fac5fc68cc6c.png)
+![Пример UML-диаграммы классов онлайн-корзины (2)](https://user-images.githubusercontent.com/48338308/153335916-794beff6-55ea-46f3-8418-408eb37ecf56.png)
+![Пример UML-диаграммы классов онлайн-корзины (3)](https://user-images.githubusercontent.com/48338308/153335923-2bdc3af1-e93f-4bb6-a901-c857ae84ed06.png)
+![Пример UML-диаграммы классов онлайн-корзины (4)](https://user-images.githubusercontent.com/48338308/153335933-d56bba44-a664-4e08-93a0-2fd2cda16691.png)
+![Пример UML-диаграммы классов онлайн-корзины (5)](https://user-images.githubusercontent.com/48338308/153335972-1defe24d-9a70-4341-8aa1-4e2b9a48f4fc.png)
+![Пример UML-диаграммы классов онлайн-корзины (7)](https://user-images.githubusercontent.com/48338308/153335982-60fc9dc8-b478-4acb-bca3-a4fdca3a968e.png)
